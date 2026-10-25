@@ -42,6 +42,4 @@ Merged contributions to **[Dusky](https://github.com/dusklinux/dusky)**:
 
 ## Most Used
 
-`TypeScript` · `Rust` · `JavaScript` · `Python` · `C` · `SQL`
-
-`React` · `Node.js` · `Socket.IO` · `WebRTC` · `Docker` · `Linux`
+`TypeScript` · `Rust` · `JavaScript` · `Python` · `C` · `SQL` · `React` · `Node.js` · `Socket.IO` · `WebRTC` · `Docker` · `Linux`
