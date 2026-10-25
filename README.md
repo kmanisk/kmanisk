@@ -1,10 +1,24 @@
 # Kumar Manisk Gaurav
 
-Full-stack developer • Rust/Linux enthusiast • Building realtime and performance-focused software
+Software developer • Rust/Linux enthusiast • Building realtime and performance-focused software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kumar--manisk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-manisk)
 [![GitHub](https://img.shields.io/badge/GitHub-kmanisk-181717?style=flat-square&logo=github)](https://github.com/kmanisk)
-[![Live Project](https://img.shields.io/badge/Live-Flickfolk-ff7a59?style=flat-square)](https://flickfolk.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-181717?style=flat-square)](https://kmanisk.github.io/portfolio/)
+
+## Featured Projects
+
+- **[rogtui](https://github.com/kmanisk/rogtui)** — minimal, hardware-direct Ratatui TUI for ASUS ROG and TUF gaming laptops.
+- **[micstudio](https://github.com/kmanisk/micstudio)** — native Rust audio studio, voice preset manager, and real-time DSP pipeline for PipeWire.
+- **[rilo](https://github.com/kmanisk/rilo)** — fast, lightweight desktop download manager built with Rust, Preact, and SQLite.
+- **[wasm-bgi-ide](https://github.com/kmanisk/wasm-bgi-ide)** — browser-based WebAssembly development tooling for BGI-style graphics workflows.
+
+## Open Source
+
+Recent work on **[Tele](https://github.com/sorokin-vladimir/tele)**:
+
+- [Sixel previews with bounded terminal rendering](https://github.com/sorokin-vladimir/tele/pull/318)
+- [Progressive video playback](https://github.com/sorokin-vladimir/tele/pull/321)
 
 ## GitHub Stats
 
