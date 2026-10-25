@@ -30,7 +30,7 @@ Merged contributions to **[Dusky](https://github.com/dusklinux/dusky)**:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmanisk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmanisk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&card_width=495&line_height=38" alt="GitHub stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmanisk&theme=github_dark&v=20261026-1" alt="Top languages by repository" />
 </p>
 
