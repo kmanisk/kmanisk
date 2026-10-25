@@ -8,10 +8,11 @@ Software developer • Rust/Linux enthusiast • Building realtime and performan
 
 ## Featured Projects
 
+- **[FlickFolk](https://github.com/kmanisk/flickfolk)** — real-time watch parties with synchronized playback, voice chat, live reactions, GIFs, and collaborative rooms.
+- **[Sentinel](https://github.com/kmanisk/sentinel)** — real-time API health, latency, and uptime telemetry platform with WebSockets and DevOps pipelines.
 - **[rogtui](https://github.com/kmanisk/rogtui)** — minimal, hardware-direct Ratatui TUI for ASUS ROG and TUF gaming laptops.
 - **[micstudio](https://github.com/kmanisk/micstudio)** — native Rust audio studio, voice preset manager, and real-time DSP pipeline for PipeWire.
 - **[rilo](https://github.com/kmanisk/rilo)** — fast, lightweight desktop download manager built with Rust, Preact, and SQLite.
-- **[wasm-bgi-ide](https://github.com/kmanisk/wasm-bgi-ide)** — browser-based WebAssembly development tooling for BGI-style graphics workflows.
 
 ## Open Source
 
