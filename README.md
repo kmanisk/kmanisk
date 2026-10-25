@@ -20,6 +20,12 @@ Recent work on **[Tele](https://github.com/sorokin-vladimir/tele)**:
 - [Sixel previews with bounded terminal rendering](https://github.com/sorokin-vladimir/tele/pull/318)
 - [Progressive video playback](https://github.com/sorokin-vladimir/tele/pull/321)
 
+Merged contributions to **[Dusky](https://github.com/dusklinux/dusky)**:
+
+- [Wallpaper favorites selector and controller](https://github.com/dusklinux/dusky/pull/132)
+- [Rofi search: engine picker and query workflow](https://github.com/dusklinux/dusky/pull/36)
+- [Installation script typo fixes](https://github.com/dusklinux/dusky/pull/140)
+
 ## GitHub Stats
 
 <p align="center">
