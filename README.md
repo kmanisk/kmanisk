@@ -23,8 +23,8 @@ Recent work on **[Tele](https://github.com/sorokin-vladimir/tele)**:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmanisk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmanisk&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmanisk&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmanisk&theme=github_dark" alt="Top languages by repository" />
 </p>
 
 ## Activity
