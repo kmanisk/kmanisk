@@ -16,7 +16,7 @@ Full-stack developer • Rust/Linux enthusiast • Building realtime and perform
 ## Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmanisk&theme=github-compact&hide_border=true&area=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmanisk&theme=github_dark" alt="GitHub activity" />
 </p>
 
 ## Most Used
