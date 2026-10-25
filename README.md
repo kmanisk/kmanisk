@@ -8,7 +8,7 @@ Software developer • Rust/Linux enthusiast • Building realtime and performan
 
 ## Featured Projects
 
-- **[FlickFolk](https://github.com/kmanisk/flickfolk)** — real-time watch parties with synchronized playback, voice chat, live reactions, GIFs, and collaborative rooms.
+- **[FlickFolk](https://github.com/kmanisk/flickfolk)** — real-time synchronized watch parties with voice chat and reactions.
 - **[Sentinel](https://github.com/kmanisk/sentinel)** — real-time API health, latency, and uptime telemetry platform with WebSockets and DevOps pipelines.
 - **[rogtui](https://github.com/kmanisk/rogtui)** — minimal, hardware-direct Ratatui TUI for ASUS ROG and TUF gaming laptops.
 - **[micstudio](https://github.com/kmanisk/micstudio)** — native Rust audio studio, voice preset manager, and real-time DSP pipeline for PipeWire.
@@ -30,7 +30,7 @@ Merged contributions to **[Dusky](https://github.com/dusklinux/dusky)**:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmanisk&theme=github_dark&v=20261026-1" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmanisk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmanisk&theme=github_dark&v=20261026-1" alt="Top languages by repository" />
 </p>
 
