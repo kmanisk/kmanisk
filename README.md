@@ -30,14 +30,14 @@ Merged contributions to **[Dusky](https://github.com/dusklinux/dusky)**:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmanisk&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmanisk&theme=github_dark" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmanisk&theme=github_dark&v=20261026-1" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmanisk&theme=github_dark&v=20261026-1" alt="Top languages by repository" />
 </p>
 
 ## Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmanisk&theme=github_dark" alt="GitHub activity" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmanisk&theme=github_dark&v=20261026-1" alt="GitHub activity" />
 </p>
 
 ## Most Used
