@@ -4,7 +4,7 @@ Software developer • Rust/Linux enthusiast • Building realtime and performan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kumar--manisk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-manisk)
 [![GitHub](https://img.shields.io/badge/GitHub-kmanisk-6E7681?style=flat-square&logo=github&logoColor=white)](https://github.com/kmanisk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-181717?style=flat-square)](https://kmanisk.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8B949E?style=flat-square&logo=githubpages&logoColor=white)](https://kmanisk.github.io/portfolio/)
 
 ## Featured Projects
 
