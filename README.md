@@ -1,6 +1,6 @@
 # Kumar Manisk Gaurav
 
-Full-stack developer • Rust • Building realtime and performance-focused software
+Full-stack developer • Rust developer • Building realtime and performance-focused software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kumar--manisk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-manisk)
 [![GitHub](https://img.shields.io/badge/GitHub-kmanisk-6E7681?style=flat-square&logo=github&logoColor=white)](https://github.com/kmanisk)
